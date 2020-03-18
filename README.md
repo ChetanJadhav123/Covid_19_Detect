@@ -3,7 +3,9 @@
 Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
 
 Project structure
+
 Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
+
 $ tree --dirsfirst --filelimit 10
 .
 ├── dataset
@@ -16,3 +18,4 @@ $ tree --dirsfirst --filelimit 10
 └── covid19.model
 3 directories, 5 files
 
+Trained Module is missing, please request for trained module.
